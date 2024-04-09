@@ -1,7 +1,5 @@
 package sample;
 
-import java.util.Iterator;
-
 public class MultiArraySample {
 
     public static void main(String[] args) {
